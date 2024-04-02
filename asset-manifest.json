@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03359348.css",
+    "main.js": "/static/js/main.504f4407.js",
+    "static/media/pokestore.PNG": "/static/media/pokestore.cd43467221eaff1bf097.PNG",
+    "static/media/otp.PNG": "/static/media/otp.24d289b6db31715ec2c8.PNG",
+    "static/media/todo.PNG": "/static/media/todo.82086181eada0316cf59.PNG",
+    "static/media/kanban.PNG": "/static/media/kanban.90556ae5fd8470f2b612.PNG",
+    "static/media/flipcard.PNG": "/static/media/flipcard.43db77334192f4ec884e.PNG",
+    "static/media/pdfViewer.PNG": "/static/media/pdfViewer.96c5ee5f7e41ac7cb6e3.PNG",
+    "static/media/fileExplorer.PNG": "/static/media/fileExplorer.f1918278ad304d2b4d7b.PNG",
+    "static/media/passwordGenerator.PNG": "/static/media/passwordGenerator.e02d869c8ae86b9a43ec.PNG",
+    "static/media/currencyConvertor.PNG": "/static/media/currencyConvertor.028f9f814e9dd29adcfc.PNG",
+    "static/media/shoe.svg": "/static/media/shoe.09339147824651fbb98c7584711473de.svg",
+    "static/media/magnifier.svg": "/static/media/magnifier.85d0496bb6e97e583ef7.svg",
+    "static/media/github.svg": "/static/media/github.983b7152e6c72476baca866465791fc8.svg",
+    "index.html": "/index.html",
+    "static/media/gmail.svg": "/static/media/gmail.0e96e9b3ccce1aa5f39053a1ed9c22ca.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.82627bc58dbb2183b7fcf02ed5de907f.svg",
+    "static/media/codesandbox2.svg": "/static/media/codesandbox2.a1ff8dfd12d1f584f9c88c229c9f9dcb.svg",
+    "static/media/codepen.svg": "/static/media/codepen.60b25dafcfd8d363074ffab48d68932b.svg",
+    "main.03359348.css.map": "/static/css/main.03359348.css.map",
+    "main.504f4407.js.map": "/static/js/main.504f4407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03359348.css",
+    "static/js/main.504f4407.js"
+  ]
+}
